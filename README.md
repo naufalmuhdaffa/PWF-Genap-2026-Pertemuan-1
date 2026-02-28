@@ -1,12 +1,7 @@
 ## Screenshot Tugas
-Tampilan `/about`
-<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/a317abb8-4632-42ea-ab89-739b140c6169" />
-register
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/8c9cff91-0d0b-400c-87fd-edecdc6d5a0f" />
-login
-<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/692bac86-7e9a-4ff0-a09a-3a57c6e7b758" />
 
-
+[Pertemuan 1](./readme/pertemuan-1.md)  
+[Pertemuan 2](./readme/pertemuan-2.md)
 
 ---
 

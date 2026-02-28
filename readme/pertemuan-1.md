@@ -1,0 +1,1 @@
+<img alt="image" src="./images/pertemuan-1/pertemuan-1.png" />
