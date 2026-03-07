@@ -2,6 +2,7 @@
 
 [Pertemuan 1](./readme/pertemuan-1.md)  
 [Pertemuan 2](./readme/pertemuan-2.md)
+[Pertemuan 3](./readme/pertemuan-3.md)
 
 ---
 
